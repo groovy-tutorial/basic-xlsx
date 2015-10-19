@@ -14,7 +14,7 @@ v0.1, 2015-08-25
 :source-language: groovy
 :toc:
 
-TODO
+A small example of reading data in an Excel spreadsheet
 
 == Introduction
 
