@@ -33,7 +33,7 @@ Paths.get('countryInfo.xlsx').withInputStream { input ->
                 case CELL_TYPE_STRING:
                     value = cell.stringCellValue
                     break
-                case CELL_TYPE_STRING:
+                case CELL_TYPE_NUMERIC:
                     value = cell.numericCellValue
                     break
                 default:
